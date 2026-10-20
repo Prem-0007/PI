@@ -8,3 +8,5 @@
 # im an irrational number
 
 $ $
+
+pi = 22 / 7 
